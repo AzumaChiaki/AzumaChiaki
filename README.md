@@ -1,6 +1,6 @@
 <!-- ===== Header 渐变横幅 ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=AzumaChiaki&fontAlign=50&fontAlignY=40&color=0:6a11cb,100:2575fc&fontColor=ffffff&desc=Wearable%20Systems%20%7C%20Offline%20Search%20%7C%20Game%20Design&descAlign=50&descAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=AzumaChiaki&fontAlign=50&fontAlignY=40&color=0:6a11cb,100:2575fc&fontColor=ffffff&desc=Wearable%20Systems%20%7C%%20%7C%20Game%20Design&descAlign=50&descAlignY=65" />
 </p>
 
 <!-- ===== 访问量 ===== -->
@@ -17,11 +17,7 @@
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzumaChiaki&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 </p>
-
 ---
-
-## 技术栈
-
 <p align="center">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Compose-4285F4?style=for-the-badge&logo=android&logoColor=white"/>
@@ -32,15 +28,11 @@
 
 ---
 
-## 活跃度图
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AzumaChiaki&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=f78166&point=ffffff&hide_border=true" />
 </p>
 
 ---
-
-## 动态展示
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=24&center=true&vCenter=true&width=600&lines=System+Optimization;Wearable+Development;Offline+Search+Engine;Game+Design" />
@@ -48,13 +40,12 @@
 
 ---
 
-## 结构说明
-
-- 所有数据均来自外部 API（GitHub Stats / Streak / Activity Graph）
-- 无前端脚本，仅通过图片实现动态效果
-- 视觉依赖深色背景 + 高对比强调色
+## 联系方式
+邮箱：azumachiaki@163.com
+QQ：2731796844
 
 ---
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2575fc,100:6a11cb"/>
