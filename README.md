@@ -1,6 +1,6 @@
 <!-- ===== Header 渐变横幅 ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=AzumaChiaki&fontAlign=50&fontAlignY=40&color=0:6a11cb,100:2575fc&fontColor=ffffff&desc=Wearable%20Systems%20%7C%%20%7C%20Game%20Design&descAlign=50&descAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=AzumaChiaki&fontAlign=50&fontAlignY=40&color=0:6a11cb,100:2575fc&fontColor=ffffff&desc=Wearable%20Developer%7C%%20%7C%20bandbbs&descAlign=50&descAlignY=65" />
 </p>
 
 <!-- ===== 访问量 ===== -->
